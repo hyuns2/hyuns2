@@ -12,6 +12,8 @@ MIT License
   <b>hyunsoi0103@gmail.com</b> <br/>
 </div>
 
+<br/>
+
 <div align="center">
   <h2>📌Stacks</h2>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -49,6 +51,8 @@ MIT License
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
+
+<br/>
 
 <div align="center">
   <h2>📌Development Log</h2>
