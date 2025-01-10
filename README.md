@@ -15,7 +15,7 @@ MIT License
 <br/>
 
 <div align="center">
-  <h2>📌Stack</h2>
+  <h2>📌Tech Stack</h2>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-E84D3D?style=for-the-badge&logo=java&logoColor=white">
